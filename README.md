@@ -29,7 +29,7 @@ The mapping between FrameNet's frames and BabelNet's synsets is implemented by u
 
 ## License
 
-- This package is distributed under licence [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- This dataset is distributed under licence [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Authors
 
