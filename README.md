@@ -1,10 +1,9 @@
 # Framester's FrameNet to BabelNet mappings
 
 This repository contains the Framester's FrameNet 1.5 to BabelNet 3.7 mappings.
-Starting from the Framester's FrameNet to WordNet mappings, these mappings have been obtained by following the alignment between BabelNet and WordNet synsets.
+Starting from the [Framester's FrameNet to WordNet mappings](https://github.com/luigi-asprino/fn2wn), these mappings have been obtained by following the alignment between BabelNet and WordNet synsets.
 As FrameNet-WordNet mappings, the BabelNet mappings are organised in three profiles, i.e.: Base (B), Direct (D) and Transitive (T).
 
-**TODO** Reckless??
 
 
 ### Mapping implementation
@@ -29,7 +28,7 @@ The mapping between FrameNet's frames and BabelNet's synsets is implemented by u
 
 ## License
 
-- This package is distributed under licence [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- This dataset is distributed under licence [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Authors
 
