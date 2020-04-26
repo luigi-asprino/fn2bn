@@ -7,12 +7,12 @@
 @prefix bn:    <http://babelnet.org/rdf/> .
 @prefix frame: <https://w3id.org/framester/framenet/abox/frame/> .
 
-frame:Organization  skos:closeMatch  bn:s00031008n , bn:s00020039n , bn:s00041942n , bn:s00021019n , bn:s00013379n , bn:s00050409n , bn:s00021015n , bn:s00059480n , bn:s00079093n , bn:s00047026n , bn:s00007299n , bn:s00006539n , bn:s00001961n , bn:s00016300n .
+frame:Organization  skos:closeMatch  bn:s00031008n , bn:s00020039n , bn:s00021019n , bn:s00013379n , bn:s00050409n , bn:s00021015n , bn:s00059480n , bn:s00079093n , bn:s00047026n , bn:s00007299n , bn:s00006539n , bn:s00001961n , bn:s00016300n .
 
 frame:Color  skos:closeMatch  bn:s00065118n , bn:s00041648n , bn:s00020726n , bn:s00046494n , bn:s00098480a , bn:s00113830a .
 
 frame:Change_of_leadership
-        skos:closeMatch  bn:s00067569n , bn:s00067568n , bn:s00036377n , bn:s00089786v , bn:s00087686v , bn:s00083790v , bn:s00030113n , bn:s00084075v , bn:s00047003n , bn:s00046406n , bn:s00023258n , bn:s00085827v , bn:s00087517v , bn:s00086719v , bn:s00092993v , bn:s00086625v , bn:s00082716v , bn:s00082793v , bn:s00059916n , bn:s00056541n , bn:s00090992v , bn:s00087685v .
+        skos:closeMatch  bn:s00067569n , bn:s00067568n , bn:s00036377n , bn:s00089786v , bn:s00087686v , bn:s00083790v , bn:s00030113n , bn:s00084075v , bn:s00047003n , bn:s00046406n , bn:s00023258n , bn:s00085827v , bn:s00087517v , bn:s00086719v , bn:s00092993v , bn:s00086625v , bn:s00082793v , bn:s00059916n , bn:s00056541n , bn:s00090992v , bn:s00087685v .
 
 frame:Influence_of_event_on_cognizer
         skos:closeMatch  bn:s00082304v , bn:s00046695n , bn:s00105083a , bn:s00084792v , bn:s00115926r .
@@ -47,7 +47,7 @@ frame:Evaluative_comparison
 frame:Clemency  skos:closeMatch  bn:s00019708n .
 
 frame:Meet_specifications
-        skos:closeMatch  bn:s00088179v , bn:s00088614v .
+        skos:closeMatch  bn:s00088179v .
 
 frame:Wealthiness  skos:closeMatch  bn:s00109833a , bn:s00112592a , bn:s00108798a , bn:s00109029a , bn:s00046157n .
 
@@ -122,7 +122,7 @@ frame:Processing_materials
 
 frame:Inclusion  skos:closeMatch  bn:s00085698v , bn:s00085499v , bn:s00104825a , bn:s00089660v , bn:s00087798v , bn:s00020453n .
 
-frame:Performers  skos:closeMatch  bn:s00001176n , bn:s00046975n , bn:s00001181n .
+frame:Performers  skos:closeMatch  bn:s00001176n , bn:s00046975n .
 
 frame:Assessing  skos:closeMatch  bn:s00031973n , bn:s00082720v , bn:s00089002v , bn:s00085650v , bn:s00066433n , bn:s00087763v , bn:s00092449v , bn:s00089004v , bn:s00005120n .
 
@@ -156,7 +156,7 @@ frame:People_by_residence
 frame:Undergo_change  skos:closeMatch  bn:s00084769v , bn:s00071059n , bn:s00086173v , bn:s00095233v , bn:s00084784v , bn:s00017678n , bn:s00003125n , bn:s00077992n , bn:s00054575n , bn:s00099513a , bn:s00092032v , bn:s00091773v , bn:s00094679v .
 
 frame:Eventive_affecting
-        skos:closeMatch  bn:s00087980v , bn:s00085337v .
+        skos:closeMatch  bn:s00087980v .
 
 frame:Hunting_success_or_failure
         skos:closeMatch  bn:s00084511v , bn:s00083026v .
@@ -207,7 +207,7 @@ frame:Cause_to_perceive
 frame:Willingness  skos:closeMatch  bn:s00113391a , bn:s00081239n , bn:s00113877a , bn:s00101752a , bn:s00047382n , bn:s00115561r .
 
 frame:Quitting_a_place
-        skos:closeMatch  bn:s00000213n , bn:s00030545n , bn:s00081434n , bn:s00088858v , bn:s00086669v , bn:s00082122v , bn:s00090280v , bn:s00082120v , bn:s00030546n , bn:s00087267v , bn:s00082164v , bn:s00086450v , bn:s00086356v , bn:s00031557n , bn:s00067464n , bn:s00093800v , bn:s00087564v .
+        skos:closeMatch  bn:s00000213n , bn:s00030545n , bn:s00081434n , bn:s00088858v , bn:s00086669v , bn:s00082122v , bn:s00090280v , bn:s00082120v , bn:s00030546n , bn:s00087267v , bn:s00082164v , bn:s00086450v , bn:s00031557n , bn:s00067464n , bn:s00087564v .
 
 frame:Quantity  skos:closeMatch  bn:s00028515n , bn:s00106953a , bn:s00007428n , bn:s00028710n , bn:s00114047r , bn:s00024511n , bn:s00028320n , bn:s00000517n , bn:s00106059a , bn:s00106995a , bn:s00003602n , bn:s00116290r , bn:s00116295r , bn:s00055484n , bn:s00026093n , bn:s00051672n , bn:s00034394n , bn:s00102920a , bn:s00080687n , bn:s00106408a , bn:s00030469n , bn:s00008985n , bn:s00107314a , bn:s00114418r , bn:s00042807n , bn:s00057373n , bn:s00004989n , bn:s00034197n , bn:s00107028a , bn:s00003603n , bn:s00102719a , bn:s00025965n , bn:s00096798a , bn:s00056632n , bn:s00044195n .
 
@@ -246,7 +246,7 @@ frame:Part_orientational
         skos:closeMatch  bn:s00007728n , bn:s00113808a , bn:s00035855n , bn:s00058103n , bn:s00097938a , bn:s00035679n , bn:s00072961n , bn:s00098731a , bn:s00058033n , bn:s00032604n , bn:s00029466n , bn:s00012365n , bn:s00078978n , bn:s00107598a , bn:s00000943n , bn:s00023758n , bn:s00043386n , bn:s00007747n , bn:s00008796n , bn:s00109848a , bn:s00105834a , bn:s00050521n , bn:s00101959a , bn:s00067808n , bn:s00111992a .
 
 frame:Operating_a_system
-        skos:closeMatch  bn:s00093174v , bn:s00084092v , bn:s00033817n , bn:s00086348v , bn:s00091177v .
+        skos:closeMatch  bn:s00093174v , bn:s00084092v , bn:s00033817n , bn:s00086348v .
 
 frame:Amalgamation  skos:closeMatch  bn:s00003203n , bn:s00083597v , bn:s00090731v , bn:s00083595v , bn:s00082565v , bn:s00090746v , bn:s00055400n .
 
@@ -268,7 +268,7 @@ frame:Using  skos:closeMatch  bn:s00030627n , bn:s00036838n , bn:s00005092n , bn
 
 frame:Occupy_rank  skos:closeMatch  bn:s00092364v , bn:s00063703n , bn:s00111992a .
 
-frame:Invading  skos:closeMatch  bn:s00089874v , bn:s00089709v , bn:s00030706n , bn:s00047325n .
+frame:Invading  skos:closeMatch  bn:s00089709v , bn:s00047325n .
 
 frame:Mental_stimulus_stimulus_focus
         skos:closeMatch  bn:s00105276a , bn:s00115987r .
@@ -279,25 +279,23 @@ frame:Proper_reference
         skos:closeMatch  bn:s00117094r .
 
 frame:Agree_or_refuse_to_act
-        skos:closeMatch  bn:s00082476v , bn:s00066862n , bn:s00086390v .
+        skos:closeMatch  bn:s00082476v , bn:s00066862n .
 
 frame:Amounting_to  skos:closeMatch  bn:s00068547n , bn:s00003601n , bn:s00075141n , bn:s00002008n , bn:s00085859v , bn:s00082327v .
 
 frame:Win_prize  skos:closeMatch  bn:s00095777v .
 
-frame:Building  skos:closeMatch  bn:s00013723n , bn:s00086008v , bn:s00088905v , bn:s00006485n , bn:s00095707v , bn:s00087714v , bn:s00084198v , bn:s00082845v , bn:s00088048v .
+frame:Building  skos:closeMatch  bn:s00013723n , bn:s00088905v , bn:s00006485n , bn:s00095707v , bn:s00087714v , bn:s00084198v , bn:s00088048v .
 
 frame:Type  skos:closeMatch  bn:s00072855n , bn:s00072856n , bn:s00065801n , bn:s00029773n , bn:s00078798n , bn:s00045931n , bn:s00035907n , bn:s00016733n , bn:s00012759n .
 
 frame:Place_weight_on
         skos:closeMatch  bn:s00000639n , bn:s00084726v , bn:s00087572v , bn:s00082195v , bn:s00103156a , bn:s00092026v , bn:s00107977a .
 
-frame:Gesture  skos:closeMatch  bn:s00088732v , bn:s00083289v , bn:s00093733v , bn:s00091072v , bn:s00071525n .
+frame:Gesture  skos:closeMatch  bn:s00088732v , bn:s00083289v , bn:s00091072v , bn:s00071525n .
 
 frame:Ranked_expectation
         skos:closeMatch  bn:s00113852a , bn:s00103507a , bn:s00114626r , bn:s00115495r .
-
-frame:Attempt_means  skos:closeMatch  bn:s00082844v .
 
 frame:Accuracy  skos:closeMatch  bn:s00104757a , bn:s00046220n , bn:s00102487a , bn:s00104694a , bn:s00114109r , bn:s00096292a , bn:s00000782n , bn:s00115266r , bn:s00064093n , bn:s00115530r , bn:s00114108r , bn:s00115776r , bn:s00115854r , bn:s00108913a .
 
@@ -305,7 +303,7 @@ frame:Touring  skos:closeMatch  bn:s00044419n , bn:s00019181n , bn:s00077747n , 
 
 frame:Leadership  skos:closeMatch  bn:s00075475n , bn:s00028876n , bn:s00037647n , bn:s00015750n , bn:s00043259n , bn:s00094098v , bn:s00052017n , bn:s00069333n , bn:s00052780n , bn:s00024097n , bn:s00030591n , bn:s00012293n , bn:s00080167n , bn:s00017517n , bn:s00007293n , bn:s00063133n , bn:s00014743n , bn:s00041204n , bn:s00082362v , bn:s00020941n , bn:s00017235n , bn:s00064405n , bn:s00079929n , bn:s00012295n , bn:s00043325n , bn:s00050591n , bn:s00019333n , bn:s00084447v , bn:s00024926n , bn:s00029007n , bn:s00091985v , bn:s00085404v , bn:s00021852n , bn:s00060072n , bn:s00020955n , bn:s00028191n , bn:s00037655n , bn:s00027283n , bn:s00005253n , bn:s00018320n , bn:s00089260v , bn:s00036837n , bn:s00055175n , bn:s00026965n , bn:s00017796n , bn:s00049141n , bn:s00049142n , bn:s00025573n , bn:s00070458n , bn:s00049031n , bn:s00030632n , bn:s00088992v , bn:s00041348n , bn:s00010706n , bn:s00050371n , bn:s00001436n , bn:s00068528n , bn:s00008639n , bn:s00024091n , bn:s00108985a , bn:s00082336v , bn:s00050281n , bn:s00028513n , bn:s00001426n , bn:s00054972n , bn:s00018319n , bn:s00092703v , bn:s00024922n , bn:s00024459n , bn:s00050375n , bn:s00045987n , bn:s00007299n , bn:s00021678n , bn:s00070168n .
 
-frame:Escaping  skos:closeMatch  bn:s00083961v , bn:s00087757v , bn:s00083978v .
+frame:Escaping  skos:closeMatch  bn:s00083961v , bn:s00087757v .
 
 frame:Commerce_scenario
         skos:closeMatch  bn:s00014332n , bn:s00053479n , bn:s00020982n , bn:s00085125v , bn:s00022996n , bn:s00067419n , bn:s00022099n , bn:s00021045n .
@@ -369,7 +367,7 @@ frame:Getting_underway
 
 frame:Coincidence  skos:closeMatch  bn:s00000691n , bn:s00109425a , bn:s00114328r , bn:s00084767v , bn:s00020509n , bn:s00017622n .
 
-frame:Imprisonment  skos:closeMatch  bn:s00088673v , bn:s00015771n .
+frame:Imprisonment  skos:closeMatch  bn:s00015771n .
 
 frame:Compliance  skos:closeMatch  bn:s00100149a , bn:s00044665n , bn:s00085589v , bn:s00090034v , bn:s00090040v , bn:s00082140v , bn:s00083897v , bn:s00088348v , bn:s00086996v , bn:s00046730n , bn:s00027632n , bn:s00082345v , bn:s00012864n , bn:s00091468v , bn:s00090045v , bn:s00115972r , bn:s00082139v , bn:s00001360n , bn:s00107668a , bn:s00090041v , bn:s00090037v , bn:s00022267n , bn:s00082316v , bn:s00000300n , bn:s00032054n , bn:s00091112v , bn:s00090036v .
 
@@ -385,13 +383,13 @@ frame:Exporting  skos:closeMatch  bn:s00087885v , bn:s00032363n .
 
 frame:Hindering  skos:closeMatch  bn:s00084853v , bn:s00030713n , bn:s00046086n , bn:s00008108n , bn:s00089161v , bn:s00045274n , bn:s00089340v , bn:s00086514v , bn:s00083630v , bn:s00027043n , bn:s00006399n , bn:s00092911v , bn:s00085675v , bn:s00089740v , bn:s00089816v , bn:s00085582v .
 
-frame:Evading  skos:closeMatch  bn:s00031992n , bn:s00088291v , bn:s00083485v , bn:s00083978v .
+frame:Evading  skos:closeMatch  bn:s00088291v , bn:s00083485v .
 
 frame:Suitability  skos:closeMatch  bn:s00100490a , bn:s00103023a , bn:s00046587n , bn:s00075107n , bn:s00082214v , bn:s00088244v , bn:s00109114a .
 
 frame:Discussion  skos:closeMatch  bn:s00005601n , bn:s00021721n , bn:s00091441v , bn:s00060707n , bn:s00022352n , bn:s00007099n , bn:s00021221n , bn:s00020931n , bn:s00091037v , bn:s00027543n , bn:s00075965n , bn:s00086942v , bn:s00032126n , bn:s00027544n , bn:s00085651v , bn:s00085436v , bn:s00085570v , bn:s00026838n .
 
-frame:Dodging  skos:closeMatch  bn:s00085002v , bn:s00071477n , bn:s00022278n .
+frame:Dodging  skos:closeMatch  bn:s00022278n .
 
 frame:Prison  skos:closeMatch  bn:s00061317n , bn:s00013113n , bn:s00022847n , bn:s00019832n , bn:s00074364n , bn:s00064468n .
 
@@ -399,7 +397,7 @@ frame:Redirecting  skos:closeMatch  bn:s00086749v , bn:s00082505v , bn:s00086721
 
 frame:Weapon  skos:closeMatch  bn:s00011296n , bn:s00015303n , bn:s00010513n , bn:s00042221n , bn:s00008179n , bn:s00029300n , bn:s00032349n , bn:s00042808n , bn:s00005793n , bn:s00111285a , bn:s00049322n , bn:s00010514n , bn:s00049823n , bn:s00011081n , bn:s00062860n , bn:s00012468n , bn:s00006172n , bn:s00011917n , bn:s00069539n , bn:s00067785n , bn:s00023989n , bn:s00051676n , bn:s00006938n , bn:s00005704n , bn:s00102595a , bn:s00034676n , bn:s00067576n , bn:s00020040n , bn:s00071204n , bn:s00055115n , bn:s00005789n , bn:s00055322n , bn:s00080295n , bn:s00037485n , bn:s00000149n , bn:s00071003n , bn:s00018125n , bn:s00097697a , bn:s00037366n , bn:s00000003n , bn:s00057323n , bn:s00041757n .
 
-frame:Cotheme  skos:closeMatch  bn:s00082222v , bn:s00089488v , bn:s00085567v , bn:s00087729v , bn:s00084831v , bn:s00103827a , bn:s00088433v , bn:s00093556v , bn:s00094727v , bn:s00017920n , bn:s00017924n , bn:s00089239v , bn:s00095597v , bn:s00093685v , bn:s00093610v .
+frame:Cotheme  skos:closeMatch  bn:s00082222v , bn:s00089488v , bn:s00085567v , bn:s00087729v , bn:s00084831v , bn:s00103827a , bn:s00088433v , bn:s00093556v , bn:s00094727v , bn:s00017920n , bn:s00017924n , bn:s00089239v , bn:s00093685v , bn:s00093610v .
 
 frame:Execution  skos:closeMatch  bn:s00089114v , bn:s00032178n , bn:s00089180v , bn:s00087820v , bn:s00034724n , bn:s00015656n , bn:s00042863n , bn:s00042857n , bn:s00043324n .
 
@@ -468,7 +466,7 @@ frame:Intoxicants  skos:closeMatch  bn:s00072485n , bn:s00000903n , bn:s00028872
 frame:Behind_the_scenes
         skos:closeMatch  bn:s00064581n , bn:s00027369n , bn:s00086866v , bn:s00085488v , bn:s00072920n , bn:s00092055v , bn:s00056470n , bn:s00091979v , bn:s00088192v , bn:s00084094v .
 
-frame:Suasion  skos:closeMatch  bn:s00082313v , bn:s00085767v , bn:s00084573v , bn:s00086710v .
+frame:Suasion  skos:closeMatch  bn:s00082313v , bn:s00084573v , bn:s00086710v .
 
 frame:Rashness  skos:closeMatch  bn:s00104632a , bn:s00108344a , bn:s00115755r , bn:s00116548r .
 
@@ -502,7 +500,7 @@ frame:Location_in_time
 frame:Sensation  skos:closeMatch  bn:s00007134n , bn:s00042275n , bn:s00034177n , bn:s00001714n , bn:s00065138n , bn:s00071507n , bn:s00057863n , bn:s00062275n , bn:s00005846n , bn:s00046268n , bn:s00070494n , bn:s00033960n , bn:s00045772n , bn:s00061505n , bn:s00035137n , bn:s00012433n , bn:s00058653n .
 
 frame:Corporal_punishment
-        skos:closeMatch  bn:s00050079n , bn:s00088333v , bn:s00084461v , bn:s00034981n , bn:s00088260v , bn:s00015263n , bn:s00090198v .
+        skos:closeMatch  bn:s00050079n , bn:s00034981n , bn:s00015263n , bn:s00090198v .
 
 frame:Relational_political_locales
         skos:closeMatch  bn:s00070252n , bn:s00023254n , bn:s00015498n .
@@ -533,7 +531,7 @@ frame:Needing  skos:closeMatch  bn:s00082822v , bn:s00026107n .
 
 frame:Opinion  skos:closeMatch  bn:s00045216n , bn:s00009716n , bn:s00089105v , bn:s00059169n , bn:s00084374v , bn:s00082665v , bn:s00083370v , bn:s00032495n .
 
-frame:Research  skos:closeMatch  bn:s00092869v , bn:s00067280n , bn:s00089885v .
+frame:Research  skos:closeMatch  bn:s00092869v , bn:s00067280n .
 
 frame:Event_instance  skos:closeMatch  bn:s00115811r , bn:s00117358r , bn:s00116442r , bn:s00114423r , bn:s00019848n .
 
@@ -568,7 +566,7 @@ frame:Institutionalization
 
 frame:Presence  skos:closeMatch  bn:s00064201n , bn:s00108978a .
 
-frame:Locale_by_use  skos:closeMatch  bn:s00056426n , bn:s00002286n , bn:s00005517n , bn:s00036107n , bn:s00032675n , bn:s00020643n , bn:s00013729n , bn:s00070724n , bn:s00029545n , bn:s00040492n , bn:s00049551n , bn:s00013984n , bn:s00026388n , bn:s00042918n , bn:s00033676n , bn:s00046568n , bn:s00071616n , bn:s00032645n , bn:s00017185n , bn:s00000355n , bn:s00037300n , bn:s00063640n , bn:s00079152n , bn:s00014155n , bn:s00011309n , bn:s00016808n , bn:s00017134n , bn:s00071215n , bn:s00058245n , bn:s00023248n , bn:s00109998a , bn:s00069619n , bn:s00113439a , bn:s00015097n , bn:s00023310n , bn:s00021051n , bn:s00008781n , bn:s00005940n , bn:s00054316n , bn:s00042729n , bn:s00043507n , bn:s00015795n , bn:s00015145n , bn:s00049847n , bn:s00019319n , bn:s00055114n , bn:s00081570n , bn:s00046952n , bn:s00045002n .
+frame:Locale_by_use  skos:closeMatch  bn:s00056426n , bn:s00002286n , bn:s00005517n , bn:s00036107n , bn:s00032675n , bn:s00020643n , bn:s00013729n , bn:s00070724n , bn:s00029545n , bn:s00040492n , bn:s00049551n , bn:s00013984n , bn:s00026388n , bn:s00042918n , bn:s00033676n , bn:s00046568n , bn:s00071616n , bn:s00032645n , bn:s00017185n , bn:s00000355n , bn:s00037300n , bn:s00063640n , bn:s00079152n , bn:s00014155n , bn:s00011309n , bn:s00016808n , bn:s00017134n , bn:s00071215n , bn:s00058245n , bn:s00023248n , bn:s00109998a , bn:s00069619n , bn:s00113439a , bn:s00015097n , bn:s00023310n , bn:s00021051n , bn:s00008781n , bn:s00005940n , bn:s00054316n , bn:s00042729n , bn:s00043507n , bn:s00015795n , bn:s00015145n , bn:s00019319n , bn:s00055114n , bn:s00081570n , bn:s00046952n , bn:s00045002n .
 
 frame:Long_or_short_selling
         skos:closeMatch  bn:s00093480v .
@@ -589,7 +587,7 @@ frame:Emptying  skos:closeMatch  bn:s00089129v , bn:s00025763n , bn:s00086318v ,
 frame:Medical_instruments
         skos:closeMatch  bn:s00016773n , bn:s00016768n , bn:s00035462n , bn:s00074236n , bn:s00075757n , bn:s00035193n , bn:s00049971n , bn:s00069487n , bn:s00007202n , bn:s00073244n , bn:s00013315n , bn:s00020716n , bn:s00030794n , bn:s00035782n , bn:s00059164n , bn:s00037479n .
 
-frame:Traversing  skos:closeMatch  bn:s00026499n , bn:s00083833v , bn:s00085906v , bn:s00085122v , bn:s00085356v , bn:s00086043v , bn:s00088932v , bn:s00093824v , bn:s00082806v , bn:s00089465v , bn:s00084977v .
+frame:Traversing  skos:closeMatch  bn:s00026499n , bn:s00083833v , bn:s00085906v , bn:s00085122v , bn:s00085356v , bn:s00086043v , bn:s00088932v , bn:s00093824v , bn:s00082806v , bn:s00089465v .
 
 frame:Artifact  skos:closeMatch  bn:s00010525n , bn:s00005105n , bn:s00005956n , bn:s00080972n , bn:s00023653n , bn:s00019980n .
 
@@ -643,7 +641,7 @@ frame:Reasoning  skos:closeMatch  bn:s00026176n , bn:s00005600n , bn:s00082754v 
 frame:Becoming  skos:closeMatch  bn:s00089082v , bn:s00087611v , bn:s00083293v , bn:s00083295v , bn:s00088489v .
 
 frame:Observable_body_parts
-        skos:closeMatch  bn:s00034588n , bn:s00081336n , bn:s00029372n , bn:s00019439n , bn:s00058117n , bn:s00077465n , bn:s00056555n , bn:s00013389n , bn:s00072704n , bn:s00035253n , bn:s00048051n , bn:s00009305n , bn:s00053169n , bn:s00014611n , bn:s00035856n , bn:s00075904n , bn:s00075989n , bn:s00004797n , bn:s00032552n , bn:s00005033n , bn:s00046292n , bn:s00019617n , bn:s00051217n , bn:s00056135n , bn:s00042759n , bn:s00034509n , bn:s00007727n , bn:s00009800n , bn:s00000249n , bn:s00006139n , bn:s00034593n , bn:s00018024n , bn:s00024070n , bn:s00032600n , bn:s00063376n , bn:s00051440n , bn:s00005913n , bn:s00070521n , bn:s00035437n , bn:s00077593n , bn:s00015784n , bn:s00044170n , bn:s00009361n , bn:s00035679n , bn:s00054843n , bn:s00042526n , bn:s00004293n , bn:s00029378n , bn:s00044685n , bn:s00050541n , bn:s00035801n , bn:s00004518n , bn:s00041848n , bn:s00076563n , bn:s00071294n , bn:s00043531n , bn:s00005702n , bn:s00003882n , bn:s00006140n , bn:s00035843n , bn:s00044775n , bn:s00004761n , bn:s00057115n , bn:s00077478n , bn:s00076466n , bn:s00056133n , bn:s00012950n , bn:s00035812n , bn:s00034565n , bn:s00004501n , bn:s00017395n , bn:s00076911n , bn:s00056816n , bn:s00076999n , bn:s00044002n , bn:s00061093n , bn:s00033630n , bn:s00032512n , bn:s00011748n , bn:s00018426n , bn:s00056136n , bn:s00035811n , bn:s00035844n .
+        skos:closeMatch  bn:s00034588n , bn:s00081336n , bn:s00029372n , bn:s00019439n , bn:s00058117n , bn:s00077465n , bn:s00056555n , bn:s00013389n , bn:s00072704n , bn:s00035253n , bn:s00048051n , bn:s00009305n , bn:s00053169n , bn:s00014611n , bn:s00035856n , bn:s00075904n , bn:s00075989n , bn:s00004797n , bn:s00032552n , bn:s00005033n , bn:s00046292n , bn:s00019617n , bn:s00051217n , bn:s00042759n , bn:s00034509n , bn:s00007727n , bn:s00009800n , bn:s00000249n , bn:s00006139n , bn:s00034593n , bn:s00018024n , bn:s00024070n , bn:s00032600n , bn:s00063376n , bn:s00051440n , bn:s00005913n , bn:s00070521n , bn:s00035437n , bn:s00077593n , bn:s00015784n , bn:s00044170n , bn:s00009361n , bn:s00035679n , bn:s00054843n , bn:s00042526n , bn:s00004293n , bn:s00029378n , bn:s00044685n , bn:s00035801n , bn:s00004518n , bn:s00041848n , bn:s00076563n , bn:s00071294n , bn:s00043531n , bn:s00003882n , bn:s00006140n , bn:s00035843n , bn:s00044775n , bn:s00004761n , bn:s00057115n , bn:s00077478n , bn:s00076466n , bn:s00056133n , bn:s00012950n , bn:s00035812n , bn:s00034565n , bn:s00004501n , bn:s00017395n , bn:s00076911n , bn:s00056816n , bn:s00076999n , bn:s00044002n , bn:s00061093n , bn:s00033630n , bn:s00032512n , bn:s00011748n , bn:s00018426n , bn:s00056136n , bn:s00035811n , bn:s00035844n .
 
 frame:Sidereal_appearance
         skos:closeMatch  bn:s00082809v .
@@ -693,7 +691,7 @@ frame:Intentionally_act
 frame:Emitting  skos:closeMatch  bn:s00087937v , bn:s00087542v , bn:s00086911v , bn:s00087499v , bn:s00092300v , bn:s00087565v , bn:s00092742v , bn:s00087580v .
 
 frame:Activity_finish
-        skos:closeMatch  bn:s00085475v , bn:s00085529v , bn:s00083501v , bn:s00019966n .
+        skos:closeMatch  bn:s00085475v , bn:s00083501v , bn:s00019966n .
 
 frame:Temperature  skos:closeMatch  bn:s00076457n , bn:s00113698a , bn:s00100441a , bn:s00099981a , bn:s00104348a .
 
@@ -702,7 +700,7 @@ frame:Architectural_part
 
 frame:Sound_level  skos:closeMatch  bn:s00109359a , bn:s00106192a .
 
-frame:Cause_change  skos:closeMatch  bn:s00088736v , bn:s00084785v , bn:s00082554v , bn:s00022359n , bn:s00082426v , bn:s00017652n , bn:s00095089v , bn:s00092777v , bn:s00071059n , bn:s00082553v , bn:s00095233v , bn:s00035414n , bn:s00003125n .
+frame:Cause_change  skos:closeMatch  bn:s00088736v , bn:s00084785v , bn:s00082554v , bn:s00022359n , bn:s00017652n , bn:s00095089v , bn:s00092777v , bn:s00071059n , bn:s00082553v , bn:s00095233v , bn:s00035414n , bn:s00003125n .
 
 frame:Moving_in_place
         skos:closeMatch  bn:s00095233v , bn:s00029448n , bn:s00075592n , bn:s00093072v , bn:s00088271v , bn:s00094655v , bn:s00094689v , bn:s00093076v , bn:s00089999v , bn:s00095533v , bn:s00091400v , bn:s00082470v , bn:s00088339v , bn:s00065749n , bn:s00083512v , bn:s00088938v .
@@ -748,7 +746,7 @@ frame:Dead_or_alive  skos:closeMatch  bn:s00100948a , bn:s00104777a , bn:s000027
 frame:Gathering_up  skos:closeMatch  bn:s00086090v , bn:s00082846v , bn:s00085752v , bn:s00082247v , bn:s00086141v , bn:s00085289v , bn:s00006479n , bn:s00082246v .
 
 frame:Locale_by_event
-        skos:closeMatch  bn:s00051754n , bn:s00009183n , bn:s00069550n , bn:s00034270n , bn:s00094307v , bn:s00049847n .
+        skos:closeMatch  bn:s00009183n , bn:s00069550n , bn:s00034270n , bn:s00094307v .
 
 frame:Surrendering  skos:closeMatch  bn:s00067320n , bn:s00086532v , bn:s00084713v .
 
@@ -770,7 +768,7 @@ frame:Appeal  skos:closeMatch  bn:s00082686v , bn:s00091741v , bn:s00097358a , b
 
 frame:Pardon  skos:closeMatch  bn:s00035898n , bn:s00087817v .
 
-frame:Part_whole  skos:closeMatch  bn:s00029987n , bn:s00058989n , bn:s00042602n , bn:s00045220n , bn:s00034353n , bn:s00058990n , bn:s00011744n , bn:s00065577n , bn:s00062812n , bn:s00011769n , bn:s00070193n , bn:s00115418r , bn:s00036165n , bn:s00027912n , bn:s00060764n .
+frame:Part_whole  skos:closeMatch  bn:s00029987n , bn:s00058989n , bn:s00042602n , bn:s00045220n , bn:s00034353n , bn:s00058990n , bn:s00011744n , bn:s00065577n , bn:s00062812n , bn:s00011769n , bn:s00070193n , bn:s00115418r , bn:s00027912n , bn:s00060764n .
 
 frame:Non-commutative_process
         skos:closeMatch  bn:s00055233n , bn:s00087098v , bn:s00086432v .
@@ -791,7 +789,7 @@ frame:Visiting  skos:closeMatch  bn:s00080115n , bn:s00084390v , bn:s00092989v ,
 
 frame:Theft  skos:closeMatch  bn:s00071226n , bn:s00091058v , bn:s00049292n , bn:s00025846n , bn:s00082131v , bn:s00094314v , bn:s00049082n , bn:s00024656n , bn:s00090342v , bn:s00062391n , bn:s00093663v , bn:s00012161n , bn:s00072413n , bn:s00062390n , bn:s00082181v , bn:s00074094n , bn:s00050004n , bn:s00085797v , bn:s00086444v , bn:s00043564n , bn:s00025847n .
 
-frame:Desiring  skos:closeMatch  bn:s00088035v , bn:s00050478n , bn:s00047726n , bn:s00023605n , bn:s00095802v , bn:s00095775v , bn:s00080435n , bn:s00089927v , bn:s00086682v , bn:s00089198v , bn:s00044737n , bn:s00026550n , bn:s00101930a , bn:s00080216n , bn:s00085989v , bn:s00042872n , bn:s00085924v , bn:s00086683v , bn:s00105275a , bn:s00082491v , bn:s00045230n , bn:s00003269n , bn:s00082263v , bn:s00104407a , bn:s00101238a , bn:s00045234n .
+frame:Desiring  skos:closeMatch  bn:s00088035v , bn:s00050478n , bn:s00047726n , bn:s00023605n , bn:s00095802v , bn:s00095775v , bn:s00080435n , bn:s00089927v , bn:s00086682v , bn:s00089198v , bn:s00044737n , bn:s00026550n , bn:s00101930a , bn:s00080216n , bn:s00085989v , bn:s00042872n , bn:s00085924v , bn:s00086683v , bn:s00082491v , bn:s00045230n , bn:s00003269n , bn:s00082263v , bn:s00104407a , bn:s00101238a , bn:s00045234n .
 
 frame:Damaging  skos:closeMatch  bn:s00084314v , bn:s00083592v , bn:s00093368v , bn:s00025082n , bn:s00092142v , bn:s00095486v , bn:s00090078v , bn:s00086480v , bn:s00086590v , bn:s00085873v , bn:s00084900v , bn:s00086261v , bn:s00044710n .
 
@@ -860,16 +858,16 @@ frame:Point_of_dispute
         skos:closeMatch  bn:s00043267n , bn:s00047688n , bn:s00021556n .
 
 frame:Intentional_traversing
-        skos:closeMatch  bn:s00086191v , bn:s00085120v , bn:s00088465v , bn:s00085906v , bn:s00082803v .
+        skos:closeMatch  bn:s00086191v , bn:s00085120v , bn:s00088465v , bn:s00082803v .
 
 frame:Experiencer_focus
         skos:closeMatch  bn:s00010788n , bn:s00092683v , bn:s00082385v , bn:s00085458v , bn:s00090940v , bn:s00086688v , bn:s00089044v , bn:s00086717v , bn:s00031073n , bn:s00082136v , bn:s00021319n , bn:s00096625a , bn:s00092877v , bn:s00004710n , bn:s00087284v , bn:s00083145v , bn:s00090504v , bn:s00087646v , bn:s00062972n , bn:s00116339r , bn:s00086519v , bn:s00042286n , bn:s00089697v , bn:s00043140n , bn:s00115362r , bn:s00027620n , bn:s00090362v , bn:s00085702v , bn:s00087703v , bn:s00114585r , bn:s00115588r , bn:s00116340r , bn:s00001497n , bn:s00000298n , bn:s00020913n , bn:s00105275a , bn:s00100444a , bn:s00087571v , bn:s00036761n , bn:s00022000n , bn:s00026577n , bn:s00069327n , bn:s00030588n , bn:s00066917n , bn:s00005133n , bn:s00086983v , bn:s00030916n .
 
 frame:Attack  skos:closeMatch  bn:s00082838v , bn:s00011929n , bn:s00082571v , bn:s00017789n , bn:s00083756v , bn:s00074669n , bn:s00035759n , bn:s00083234v , bn:s00089874v , bn:s00089715v , bn:s00046661n , bn:s00030706n , bn:s00006994n , bn:s00090011v , bn:s00082837v , bn:s00006466n , bn:s00084313v , bn:s00094403v , bn:s00107765a , bn:s00002021n , bn:s00046376n , bn:s00003300n , bn:s00058674n , bn:s00089352v .
 
-frame:Temporary_stay  skos:closeMatch  bn:s00074076n , bn:s00093863v , bn:s00082218v , bn:s00083489v , bn:s00083709v .
+frame:Temporary_stay  skos:closeMatch  bn:s00074076n , bn:s00093863v , bn:s00082218v , bn:s00083489v .
 
-frame:Cause_to_start  skos:closeMatch  bn:s00082770v , bn:s00091166v , bn:s00082313v , bn:s00084069v , bn:s00087809v , bn:s00083336v , bn:s00094080v , bn:s00088724v , bn:s00089655v , bn:s00089779v , bn:s00082768v , bn:s00086008v .
+frame:Cause_to_start  skos:closeMatch  bn:s00094080v , bn:s00091166v , bn:s00082768v , bn:s00087809v , bn:s00082313v , bn:s00086008v , bn:s00083336v , bn:s00089779v , bn:s00089655v .
 
 frame:Quarreling  skos:closeMatch  bn:s00027423n , bn:s00010243n , bn:s00021769n , bn:s00001789n , bn:s00082558v , bn:s00005599n , bn:s00085711v , bn:s00034378n , bn:s00083891v , bn:s00029212n , bn:s00042505n , bn:s00082755v , bn:s00083470v .
 
@@ -883,7 +881,7 @@ frame:Process_continue
         skos:closeMatch  bn:s00085715v , bn:s00085714v , bn:s00087221v , bn:s00086793v , bn:s00061702n .
 
 frame:Judgment_direct_address
-        skos:closeMatch  bn:s00084638v , bn:s00021391n , bn:s00092847v , bn:s00018318n , bn:s00089201v , bn:s00048092n , bn:s00076768n , bn:s00001468n , bn:s00066467n , bn:s00083133v , bn:s00088854v , bn:s00017934n , bn:s00009211n , bn:s00083177v , bn:s00082377v , bn:s00084161v , bn:s00085485v .
+        skos:closeMatch  bn:s00021391n , bn:s00092847v , bn:s00018318n , bn:s00048092n , bn:s00076768n , bn:s00001468n , bn:s00088854v , bn:s00017934n , bn:s00009211n , bn:s00082377v , bn:s00084161v , bn:s00085485v .
 
 frame:Cause_to_resume
         skos:closeMatch  bn:s00092412v , bn:s00092713v , bn:s00092923v .
@@ -905,7 +903,7 @@ frame:Information  skos:closeMatch  bn:s00026628n , bn:s00047027n , bn:s00032155
 frame:Cause_to_move_in_place
         skos:closeMatch  bn:s00093459v , bn:s00086115v , bn:s00088938v , bn:s00083512v , bn:s00095533v , bn:s00094689v , bn:s00094655v , bn:s00082470v , bn:s00095233v .
 
-frame:Seeking  skos:closeMatch  bn:s00088103v , bn:s00090460v , bn:s00091403v , bn:s00089280v , bn:s00090450v , bn:s00095665v , bn:s00088622v , bn:s00093168v , bn:s00088101v , bn:s00090448v , bn:s00089474v , bn:s00089525v , bn:s00088448v , bn:s00087788v .
+frame:Seeking  skos:closeMatch  bn:s00088103v , bn:s00091403v , bn:s00089280v , bn:s00090450v , bn:s00095665v , bn:s00088622v , bn:s00093168v , bn:s00088101v , bn:s00090448v , bn:s00089474v , bn:s00089525v , bn:s00088448v , bn:s00087788v .
 
 frame:Ingredients  skos:closeMatch  bn:s00021394n , bn:s00064101n , bn:s00046750n , bn:s00053801n .
 
@@ -913,20 +911,17 @@ frame:Practice  skos:closeMatch  bn:s00091912v , bn:s00028948n , bn:s00068559n ,
 
 frame:Institutions  skos:closeMatch  bn:s00031641n , bn:s00105209a .
 
-frame:Arson  skos:closeMatch  bn:s00005925n , bn:s00005924n .
-
 frame:Text  skos:closeMatch  bn:s00006121n , bn:s00031238n , bn:s00042518n , bn:s00068819n , bn:s00057563n , bn:s00058203n , bn:s00034155n , bn:s00027522n , bn:s00012059n , bn:s00031134n , bn:s00077899n , bn:s00058201n , bn:s00000739n , bn:s00010534n , bn:s00044453n , bn:s00031194n , bn:s00077064n , bn:s00008153n , bn:s00051538n , bn:s00102303a , bn:s00012133n , bn:s00000738n , bn:s00051242n , bn:s00061617n , bn:s00020904n , bn:s00048454n , bn:s00047689n , bn:s00031828n , bn:s00051508n , bn:s00029770n , bn:s00007328n , bn:s00072807n , bn:s00056659n , bn:s00067680n , bn:s00042956n , bn:s00069862n , bn:s00021410n , bn:s00012062n , bn:s00001304n , bn:s00020825n , bn:s00063195n , bn:s00026887n , bn:s00013812n , bn:s00054292n , bn:s00058636n , bn:s00030689n , bn:s00041806n , bn:s00055716n , bn:s00052671n , bn:s00053279n , bn:s00046161n , bn:s00078291n , bn:s00050802n , bn:s00028606n , bn:s00042510n , bn:s00057152n , bn:s00031622n , bn:s00078126n , bn:s00072794n , bn:s00076706n , bn:s00010851n , bn:s00002822n , bn:s00060467n , bn:s00052473n , bn:s00032590n , bn:s00030298n , bn:s00012060n , bn:s00031177n , bn:s00063193n , bn:s00077546n , bn:s00060333n , bn:s00053802n , bn:s00009892n .
+
+frame:Arson  skos:closeMatch  bn:s00005925n .
 
 frame:Prevent_from_having
         skos:closeMatch  bn:s00086593v , bn:s00086594v , bn:s00082145v , bn:s00086637v , bn:s00088029v .
 
-frame:Text_creation  skos:closeMatch  bn:s00093731v , bn:s00093287v , bn:s00090943v , bn:s00089639v , bn:s00087894v , bn:s00084953v , bn:s00087210v , bn:s00088760v , bn:s00095295v , bn:s00086294v , bn:s00082936v , bn:s00085489v , bn:s00089992v .
-
 frame:Mental_stimulus_exp_focus
-        skos:closeMatch  bn:s00100784a , bn:s00105275a .
+        skos:closeMatch  bn:s00100784a .
 
-frame:Intentionally_affect
-        skos:closeMatch  bn:s00087106v .
+frame:Text_creation  skos:closeMatch  bn:s00093731v , bn:s00093287v , bn:s00090943v , bn:s00089639v , bn:s00087894v , bn:s00084953v , bn:s00087210v , bn:s00088760v , bn:s00095295v , bn:s00086294v , bn:s00082936v , bn:s00085489v , bn:s00089992v .
 
 frame:Stage_of_progress
         skos:closeMatch  bn:s00037678n , bn:s00104149a , bn:s00106234a , bn:s00101286a .
@@ -967,7 +962,7 @@ frame:Candidness  skos:closeMatch  bn:s00110658a , bn:s00015207n , bn:s00111085a
 
 frame:Sentencing  skos:closeMatch  bn:s00021628n , bn:s00085548v .
 
-frame:Labeling  skos:closeMatch  bn:s00083882v , bn:s00094878v , bn:s00090150v , bn:s00084385v .
+frame:Labeling  skos:closeMatch  bn:s00083882v , bn:s00094878v , bn:s00090150v .
 
 frame:State_of_entity
         skos:closeMatch  bn:s00074009n , bn:s00005516n , bn:s00083348v , bn:s00016402n , bn:s00016401n , bn:s00003263n , bn:s00019219n , bn:s00021644n , bn:s00083341v , bn:s00083346v , bn:s00032654n , bn:s00019218n , bn:s00071869n , bn:s00062162n , bn:s00083344v .
@@ -975,7 +970,7 @@ frame:State_of_entity
 frame:Becoming_detached
         skos:closeMatch  bn:s00086412v , bn:s00095393v , bn:s00085346v , bn:s00095395v , bn:s00086704v .
 
-frame:Grasp  skos:closeMatch  bn:s00083821v , bn:s00095375v , bn:s00082727v , bn:s00084674v , bn:s00100161a , bn:s00084665v , bn:s00084668v , bn:s00104854a , bn:s00005125n .
+frame:Grasp  skos:closeMatch  bn:s00083821v , bn:s00084674v , bn:s00100161a , bn:s00084665v , bn:s00084668v , bn:s00104854a , bn:s00005125n .
 
 frame:Biological_entity
         skos:closeMatch  bn:s00009677n .
@@ -990,12 +985,12 @@ frame:Heat_potential  skos:closeMatch  bn:s00113698a .
 frame:Bail_decision  skos:closeMatch  bn:s00007974n .
 
 frame:Perception_experience
-        skos:closeMatch  bn:s00087864v , bn:s00048900n , bn:s00094832v , bn:s00093929v , bn:s00093495v , bn:s00032308n , bn:s00107730a , bn:s00086708v , bn:s00084661v , bn:s00093492v , bn:s00093430v , bn:s00061505n , bn:s00089277v , bn:s00085496v , bn:s00088205v .
+        skos:closeMatch  bn:s00087864v , bn:s00048900n , bn:s00094832v , bn:s00093929v , bn:s00093495v , bn:s00032308n , bn:s00107730a , bn:s00086708v , bn:s00084661v , bn:s00093492v , bn:s00093430v , bn:s00061505n , bn:s00089277v , bn:s00088205v .
 
 frame:Communication  skos:closeMatch  bn:s00084790v , bn:s00093287v , bn:s00085769v , bn:s00021222n , bn:s00086833v , bn:s00093733v , bn:s00083436v , bn:s00085436v , bn:s00049910n , bn:s00049914n , bn:s00084119v , bn:s00007129n , bn:s00022119n , bn:s00023218n .
 
 frame:Relational_natural_features
-        skos:closeMatch  bn:s00056137n , bn:s00070006n , bn:s00026081n , bn:s00071235n , bn:s00008363n , bn:s00035730n , bn:s00031676n , bn:s00056138n , bn:s00071240n , bn:s00023758n , bn:s00020164n .
+        skos:closeMatch  bn:s00056137n , bn:s00070006n , bn:s00026081n , bn:s00071235n , bn:s00008363n , bn:s00035730n , bn:s00031676n , bn:s00056138n , bn:s00071240n , bn:s00020164n .
 
 frame:Conquering  skos:closeMatch  bn:s00082739v , bn:s00087981v , bn:s00094734v , bn:s00094740v .
 
@@ -1018,7 +1013,7 @@ frame:Avoiding  skos:closeMatch  bn:s00087005v , bn:s00087724v , bn:s00090059v ,
 frame:Temporal_pattern
         skos:closeMatch  bn:s00009396n , bn:s00109827a , bn:s00116859r .
 
-frame:Activity_start  skos:closeMatch  bn:s00089743v , bn:s00092412v , bn:s00086352v , bn:s00083340v , bn:s00031048n , bn:s00094301v , bn:s00083343v , bn:s00086351v , bn:s00085409v , bn:s00083347v , bn:s00083342v , bn:s00086350v , bn:s00009630n , bn:s00087550v , bn:s00083345v , bn:s00083349v .
+frame:Activity_start  skos:closeMatch  bn:s00089743v , bn:s00092412v , bn:s00086352v , bn:s00031048n , bn:s00094301v , bn:s00083343v , bn:s00086351v , bn:s00085409v , bn:s00083347v , bn:s00083342v , bn:s00086350v , bn:s00009630n , bn:s00087550v , bn:s00083345v , bn:s00083349v .
 
 frame:Activity_prepare
         skos:closeMatch  bn:s00064168n , bn:s00085395v , bn:s00088250v , bn:s00085784v .
@@ -1051,7 +1046,7 @@ frame:Grant_permission
         skos:closeMatch  bn:s00094955v , bn:s00082740v , bn:s00005161n , bn:s00083834v , bn:s00061661n , bn:s00050463n , bn:s00082537v , bn:s00007292n , bn:s00082938v , bn:s00082199v , bn:s00086154v .
 
 frame:Foreign_or_domestic_country
-        skos:closeMatch  bn:s00105294a , bn:s00103205a , bn:s00101680a , bn:s00023241n , bn:s00115520r , bn:s00115991r .
+        skos:closeMatch  bn:s00103205a , bn:s00101680a , bn:s00023241n .
 
 frame:Stinginess  skos:closeMatch  bn:s00103519a , bn:s00019949n , bn:s00055291n , bn:s00111226a , bn:s00055293n , bn:s00090223v , bn:s00084356v .
 
@@ -1145,8 +1140,6 @@ frame:Representing  skos:closeMatch  bn:s00085839v , bn:s00092838v , bn:s0009284
 
 frame:Sharpness  skos:closeMatch  bn:s00110518a , bn:s00101878a .
 
-frame:Scouring  skos:closeMatch  bn:s00093359v , bn:s00085310v , bn:s00093168v , bn:s00093720v .
-
 frame:Launch_process  skos:closeMatch  bn:s00090216v .
 
 frame:Eclipse  skos:closeMatch  bn:s00011317n , bn:s00083292v , bn:s00083649v , bn:s00083627v , bn:s00087154v , bn:s00029648n , bn:s00113525a , bn:s00100577a , bn:s00085144v , bn:s00085509v , bn:s00086960v , bn:s00095503v , bn:s00100182a , bn:s00083630v , bn:s00085918v , bn:s00083639v .
@@ -1164,7 +1157,7 @@ frame:Repel  skos:closeMatch  bn:s00088121v , bn:s00083272v .
 
 frame:Feigning  skos:closeMatch  bn:s00082874v , bn:s00085880v , bn:s00084217v , bn:s00082429v .
 
-frame:Becoming_aware  skos:closeMatch  bn:s00092674v , bn:s00027529n , bn:s00086904v , bn:s00086933v , bn:s00085496v , bn:s00086708v , bn:s00090423v , bn:s00090740v , bn:s00084231v , bn:s00086664v .
+frame:Becoming_aware  skos:closeMatch  bn:s00086664v , bn:s00092674v , bn:s00086933v , bn:s00086904v , bn:s00090740v , bn:s00086708v , bn:s00027529n , bn:s00090423v , bn:s00084231v .
 
 frame:Imposing_obligation
         skos:closeMatch  bn:s00091752v , bn:s00083496v , bn:s00017794n , bn:s00084808v , bn:s00085428v .
@@ -1241,7 +1234,7 @@ frame:Progress  skos:closeMatch  bn:s00082400v , bn:s00082761v , bn:s00082574v ,
 
 frame:Piracy  skos:closeMatch  bn:s00013561n , bn:s00085405v , bn:s00016091n , bn:s00044114n , bn:s00084537v , bn:s00044115n .
 
-frame:Reshaping  skos:closeMatch  bn:s00086004v , bn:s00025950n , bn:s00084779v , bn:s00090218v , bn:s00086115v , bn:s00086161v , bn:s00084630v , bn:s00088490v , bn:s00088411v , bn:s00092158v , bn:s00083402v , bn:s00084181v , bn:s00092257v , bn:s00088285v , bn:s00086590v , bn:s00093083v , bn:s00085245v .
+frame:Reshaping  skos:closeMatch  bn:s00086004v , bn:s00025950n , bn:s00084779v , bn:s00090218v , bn:s00086115v , bn:s00086161v , bn:s00084630v , bn:s00088490v , bn:s00088411v , bn:s00092158v , bn:s00083402v , bn:s00084181v , bn:s00092257v , bn:s00088285v , bn:s00093083v , bn:s00085245v .
 
 frame:Eventive_cognizer_affecting
         skos:closeMatch  bn:s00086370v , bn:s00085767v .
@@ -1303,7 +1296,7 @@ frame:Have_as_requirement
 
 frame:Holding_off_on  skos:closeMatch  bn:s00089401v , bn:s00095593v .
 
-frame:Assemble  skos:closeMatch  bn:s00082846v , bn:s00085752v .
+frame:Assemble  skos:closeMatch  bn:s00085752v .
 
 frame:Bearing_arms  skos:closeMatch  bn:s00112328a , bn:s00087237v , bn:s00091376v , bn:s00097496a , bn:s00042223n , bn:s00097697a .
 
@@ -1321,9 +1314,7 @@ frame:Namesake  skos:closeMatch  bn:s00102333a , bn:s00056770n .
 frame:Confronting_problem
         skos:closeMatch  bn:s00085596v .
 
-frame:Travel  skos:closeMatch  bn:s00095049v , bn:s00078085n , bn:s00062395n , bn:s00089951v , bn:s00089993v , bn:s00091023v , bn:s00058579n , bn:s00048463n , bn:s00015053n , bn:s00078093n , bn:s00040341n , bn:s00019181n , bn:s00032163n , bn:s00061538n , bn:s00085444v , bn:s00078318n , bn:s00088912v , bn:s00058656n .
-
-frame:History  skos:closeMatch  bn:s00000738n .
+frame:Travel  skos:closeMatch  bn:s00095049v , bn:s00078085n , bn:s00062395n , bn:s00089993v , bn:s00091023v , bn:s00058579n , bn:s00048463n , bn:s00015053n , bn:s00040341n , bn:s00078093n , bn:s00019181n , bn:s00061538n , bn:s00085444v , bn:s00078318n , bn:s00058656n .
 
 frame:Hostile_encounter
         skos:closeMatch  bn:s00028074n , bn:s00021783n , bn:s00021782n , bn:s00080439n , bn:s00083891v , bn:s00034887n , bn:s00042505n , bn:s00013493n , bn:s00010243n , bn:s00074667n , bn:s00087415v , bn:s00042241n , bn:s00009080n , bn:s00085595v , bn:s00080440n , bn:s00001789n , bn:s00028625n , bn:s00012843n , bn:s00085711v , bn:s00029212n , bn:s00093823v , bn:s00083173v , bn:s00025510n , bn:s00001737n , bn:s00093400v , bn:s00004467n , bn:s00020858n , bn:s00095633v , bn:s00012450n .
@@ -1358,7 +1349,7 @@ frame:Perception_active
         skos:closeMatch  bn:s00072424n , bn:s00093929v , bn:s00082368v , bn:s00023260n , bn:s00090448v , bn:s00037551n , bn:s00088674v , bn:s00093978v , bn:s00095665v , bn:s00051968n , bn:s00061256n , bn:s00088254v , bn:s00091515v , bn:s00073980n , bn:s00090400v , bn:s00088705v , bn:s00058494n , bn:s00082907v , bn:s00087469v , bn:s00093282v , bn:s00088869v , bn:s00084662v , bn:s00093726v , bn:s00094232v , bn:s00091519v , bn:s00087864v , bn:s00042275n , bn:s00086708v , bn:s00088103v , bn:s00087940v .
 
 frame:Activity_resume
-        skos:closeMatch  bn:s00092413v , bn:s00092663v .
+        skos:closeMatch  bn:s00092663v .
 
 frame:Installing  skos:closeMatch  bn:s00046934n , bn:s00089785v .
 
@@ -1375,10 +1366,10 @@ frame:Abounding_with  skos:closeMatch  bn:s00096498a , bn:s00089941v , bn:s00108
 frame:Thriving  skos:closeMatch  bn:s00028834n , bn:s00083781v , bn:s00064820n , bn:s00088347v , bn:s00090185v , bn:s00085334v .
 
 frame:Intentionally_create
-        skos:closeMatch  bn:s00087106v , bn:s00087733v , bn:s00086008v , bn:s00064584n , bn:s00037681n , bn:s00094713v , bn:s00088724v , bn:s00087732v , bn:s00029598n , bn:s00075742n , bn:s00086013v , bn:s00023652n .
+        skos:closeMatch  bn:s00094713v , bn:s00029598n , bn:s00087733v , bn:s00023652n , bn:s00087732v , bn:s00075742n , bn:s00037681n .
 
 frame:Ambient_temperature
-        skos:closeMatch  bn:s00020535n , bn:s00069748n , bn:s00076457n , bn:s00113698a , bn:s00100441a , bn:s00099981a , bn:s00104348a .
+        skos:closeMatch  bn:s00020535n , bn:s00069748n .
 
 frame:Passing  skos:closeMatch  bn:s00088825v .
 
@@ -1386,9 +1377,6 @@ frame:Race_descriptor
         skos:closeMatch  bn:s00104217a , bn:s00044241n , bn:s00001818n , bn:s00010820n , bn:s00016822n , bn:s00061717n , bn:s00003500n , bn:s00081466n , bn:s00006331n .
 
 frame:Smuggling  skos:closeMatch  bn:s00022222n , bn:s00072364n , bn:s00093949v , bn:s00022223n .
-
-frame:Activity_done_state
-        skos:closeMatch  bn:s00102987a .
 
 frame:Version_sequence
         skos:closeMatch  bn:s00028548n .
@@ -1432,7 +1420,7 @@ frame:Bringing  skos:closeMatch  bn:s00084058v , bn:s00108815a , bn:s00090514v ,
 
 frame:Expectation  skos:closeMatch  bn:s00082665v , bn:s00082667v , bn:s00113067a , bn:s00004638n , bn:s00082963v , bn:s00082668v , bn:s00011737n , bn:s00108931a , bn:s00112714a , bn:s00032286n .
 
-frame:Self_motion  skos:closeMatch  bn:s00085233v , bn:s00088378v , bn:s00095622v , bn:s00093907v , bn:s00083283v , bn:s00087328v , bn:s00085139v , bn:s00093673v , bn:s00095597v , bn:s00090517v , bn:s00023613n , bn:s00083395v , bn:s00082982v , bn:s00084533v , bn:s00085258v , bn:s00094234v , bn:s00084629v , bn:s00085242v , bn:s00084477v , bn:s00093810v , bn:s00089465v , bn:s00085991v , bn:s00094451v , bn:s00074192n , bn:s00093399v , bn:s00089528v , bn:s00093881v , bn:s00094721v , bn:s00095624v , bn:s00094679v , bn:s00091370v , bn:s00089531v , bn:s00088808v , bn:s00091892v , bn:s00086020v , bn:s00089363v , bn:s00093830v , bn:s00082394v , bn:s00092119v , bn:s00090713v , bn:s00011900n , bn:s00089951v , bn:s00095588v , bn:s00069490n , bn:s00094507v , bn:s00083119v , bn:s00086605v , bn:s00003273n , bn:s00089337v , bn:s00088342v , bn:s00088166v , bn:s00086272v , bn:s00093231v , bn:s00086103v , bn:s00086287v , bn:s00094987v , bn:s00093268v , bn:s00044137n , bn:s00085715v , bn:s00093882v , bn:s00093641v , bn:s00052902n , bn:s00090791v , bn:s00091315v , bn:s00093900v , bn:s00095147v , bn:s00025286n , bn:s00087480v , bn:s00088447v , bn:s00093864v , bn:s00082569v , bn:s00094257v , bn:s00053352n , bn:s00093316v , bn:s00090483v , bn:s00090572v , bn:s00032163n , bn:s00086286v , bn:s00080358n , bn:s00095201v , bn:s00092808v , bn:s00084492v , bn:s00093875v , bn:s00085121v , bn:s00085021v , bn:s00075579n , bn:s00094264v , bn:s00083833v , bn:s00084708v , bn:s00084316v , bn:s00085159v , bn:s00093840v , bn:s00093170v , bn:s00094675v , bn:s00089259v , bn:s00091419v , bn:s00093051v , bn:s00093276v , bn:s00094199v , bn:s00084286v , bn:s00088653v , bn:s00094338v , bn:s00090653v , bn:s00094838v .
+frame:Self_motion  skos:closeMatch  bn:s00095622v , bn:s00093907v , bn:s00083283v , bn:s00087328v , bn:s00085139v , bn:s00093673v , bn:s00095597v , bn:s00090517v , bn:s00023613n , bn:s00083395v , bn:s00082982v , bn:s00084533v , bn:s00085258v , bn:s00094234v , bn:s00085242v , bn:s00084477v , bn:s00093810v , bn:s00089465v , bn:s00085991v , bn:s00094451v , bn:s00074192n , bn:s00093399v , bn:s00089528v , bn:s00094721v , bn:s00093881v , bn:s00095624v , bn:s00091370v , bn:s00089531v , bn:s00088808v , bn:s00091892v , bn:s00086020v , bn:s00089363v , bn:s00093830v , bn:s00082394v , bn:s00092119v , bn:s00011900n , bn:s00089951v , bn:s00095588v , bn:s00069490n , bn:s00094507v , bn:s00083119v , bn:s00086605v , bn:s00003273n , bn:s00089337v , bn:s00088342v , bn:s00088166v , bn:s00086272v , bn:s00093231v , bn:s00086103v , bn:s00086287v , bn:s00094987v , bn:s00093268v , bn:s00085715v , bn:s00044137n , bn:s00093882v , bn:s00093641v , bn:s00052902n , bn:s00090791v , bn:s00091315v , bn:s00093900v , bn:s00095147v , bn:s00025286n , bn:s00087480v , bn:s00088447v , bn:s00093864v , bn:s00082569v , bn:s00094257v , bn:s00053352n , bn:s00093316v , bn:s00090483v , bn:s00090572v , bn:s00032163n , bn:s00086286v , bn:s00080358n , bn:s00095201v , bn:s00092808v , bn:s00084492v , bn:s00085121v , bn:s00085021v , bn:s00075579n , bn:s00094264v , bn:s00083833v , bn:s00084708v , bn:s00084316v , bn:s00085159v , bn:s00093840v , bn:s00093170v , bn:s00094675v , bn:s00089259v , bn:s00091419v , bn:s00093051v , bn:s00093276v , bn:s00094199v , bn:s00084286v , bn:s00088653v , bn:s00094338v , bn:s00090653v , bn:s00094838v .
 
 frame:Measure_duration
         skos:closeMatch  bn:s00000086n , bn:s00055031n , bn:s00055794n , bn:s00055094n , bn:s00000127n , bn:s00078738n , bn:s00077268n , bn:s00056802n , bn:s00017234n , bn:s00068672n , bn:s00035996n , bn:s00043484n , bn:s00025646n .
@@ -1444,7 +1432,7 @@ frame:Cognitive_connection
 
 frame:Fear  skos:closeMatch  bn:s00033854n , bn:s00001793n , bn:s00096625a , bn:s00005133n .
 
-frame:Pattern  skos:closeMatch  bn:s00035908n , bn:s00035940n , bn:s00074759n , bn:s00074760n , bn:s00036197n , bn:s00057016n .
+frame:Posture  skos:closeMatch  bn:s00082613v , bn:s00093906v , bn:s00086086v , bn:s00089517v , bn:s00083405v , bn:s00110238a , bn:s00063708n , bn:s00090321v , bn:s00085926v , bn:s00007048n , bn:s00093776v , bn:s00094275v , bn:s00090123v , bn:s00094182v .
 
 frame:Gizmo  skos:closeMatch  bn:s00046961n , bn:s00077585n , bn:s00106539a , bn:s00079388n , bn:s00030858n , bn:s00026716n , bn:s00031322n , bn:s00022631n , bn:s00005004n , bn:s00075759n , bn:s00017210n , bn:s00005168n , bn:s00005088n , bn:s00046127n , bn:s00052556n .
 
@@ -1452,7 +1440,7 @@ frame:Cause_to_rot  skos:closeMatch  bn:s00092228v , bn:s00086400v .
 
 frame:Renting_out  skos:closeMatch  bn:s00090267v , bn:s00090268v .
 
-frame:Posture  skos:closeMatch  bn:s00082613v , bn:s00093906v , bn:s00086086v , bn:s00089517v , bn:s00083405v , bn:s00110238a , bn:s00063708n , bn:s00090321v , bn:s00085926v , bn:s00007048n , bn:s00093776v , bn:s00094275v , bn:s00090123v , bn:s00094182v .
+frame:Pattern  skos:closeMatch  bn:s00035908n , bn:s00035940n , bn:s00074759n , bn:s00074760n , bn:s00036197n , bn:s00057016n .
 
 frame:Conduct  skos:closeMatch  bn:s00080721n , bn:s00009379n , bn:s00082302v , bn:s00061005n , bn:s00082286v , bn:s00053238n , bn:s00009656n , bn:s00055274n , bn:s00082284v , bn:s00090816v .
 
@@ -1461,7 +1449,7 @@ frame:Isolated_places
 
 frame:Simple_naming  skos:closeMatch  bn:s00094878v , bn:s00084385v .
 
-frame:Sign_agreement  skos:closeMatch  bn:s00071546n , bn:s00082192v , bn:s00071547n , bn:s00093731v .
+frame:Sign_agreement  skos:closeMatch  bn:s00071546n , bn:s00082192v , bn:s00071547n .
 
 frame:Fullness  skos:closeMatch  bn:s00030633n , bn:s00102176a , bn:s00036789n , bn:s00103391a .
 
@@ -1470,7 +1458,7 @@ frame:Measure_linear_extent
 
 frame:Supply  skos:closeMatch  bn:s00092117v , bn:s00088251v , bn:s00064912n , bn:s00064922n , bn:s00089921v , bn:s00087710v , bn:s00088643v , bn:s00088611v , bn:s00031322n .
 
-frame:Ingestion  skos:closeMatch  bn:s00090519v , bn:s00084009v , bn:s00091057v , bn:s00085688v , bn:s00088085v , bn:s00090189v , bn:s00084015v , bn:s00094674v , bn:s00086843v , bn:s00092210v , bn:s00083099v , bn:s00083753v , bn:s00089136v , bn:s00086112v , bn:s00087460v , bn:s00091091v , bn:s00093773v , bn:s00094593v , bn:s00071797n , bn:s00087321v , bn:s00085689v , bn:s00089115v , bn:s00093918v , bn:s00028552n .
+frame:Ingestion  skos:closeMatch  bn:s00090519v , bn:s00084009v , bn:s00091057v , bn:s00085688v , bn:s00088085v , bn:s00090189v , bn:s00084015v , bn:s00094674v , bn:s00086843v , bn:s00092210v , bn:s00083099v , bn:s00083753v , bn:s00089136v , bn:s00086112v , bn:s00087460v , bn:s00091091v , bn:s00093773v , bn:s00094593v , bn:s00071797n , bn:s00087321v , bn:s00089115v , bn:s00093918v , bn:s00028552n .
 
 frame:Replacing  skos:closeMatch  bn:s00087802v , bn:s00021264n , bn:s00067169n , bn:s00084773v , bn:s00094650v .
 
@@ -1485,7 +1473,7 @@ frame:Provide_lodging
 frame:Altered_phase  skos:closeMatch  bn:s00106035a , bn:s00103374a .
 
 frame:Finish_competition
-        skos:closeMatch  bn:s00087257v , bn:s00078365n , bn:s00093686v , bn:s00081253n , bn:s00052052n , bn:s00079944n , bn:s00028625n , bn:s00090486v , bn:s00095777v .
+        skos:closeMatch  bn:s00087257v , bn:s00078365n , bn:s00093686v , bn:s00081253n , bn:s00052052n , bn:s00079944n , bn:s00028625n .
 
 frame:Experience_bodily_harm
         skos:closeMatch  bn:s00083901v , bn:s00084148v , bn:s00094415v , bn:s00089751v , bn:s00084280v , bn:s00084314v , bn:s00089533v , bn:s00086204v , bn:s00082157v , bn:s00082262v , bn:s00084270v , bn:s00093007v , bn:s00086118v , bn:s00089036v , bn:s00094497v , bn:s00091350v , bn:s00093919v , bn:s00089347v , bn:s00093369v .
@@ -1495,11 +1483,11 @@ frame:Growing_food  skos:closeMatch  bn:s00053885n , bn:s00089085v , bn:s0008804
 frame:Rising_to_a_challenge
         skos:closeMatch  bn:s00093059v .
 
+frame:Fighting_activity
+        skos:closeMatch  bn:s00009180n , bn:s00001790n .
+
 frame:Toxic_substance
         skos:closeMatch  bn:s00063256n , bn:s00079743n , bn:s00112032a , bn:s00077794n .
-
-frame:Fighting_activity
-        skos:closeMatch  bn:s00009180n , bn:s00001790n , bn:s00012843n , bn:s00001789n .
 
 frame:Ride_vehicle  skos:closeMatch  bn:s00088378v , bn:s00084304v , bn:s00085233v , bn:s00093231v , bn:s00086103v , bn:s00089363v , bn:s00084351v , bn:s00028783n , bn:s00094732v , bn:s00035207n , bn:s00089963v , bn:s00093014v , bn:s00024122n .
 
@@ -1566,16 +1554,16 @@ frame:Supporting  skos:closeMatch  bn:s00083747v , bn:s00084329v , bn:s00089387v
 
 frame:Killing  skos:closeMatch  bn:s00066878n , bn:s00009662n , bn:s00014211n , bn:s00046614n , bn:s00024106n , bn:s00032175n , bn:s00090692v , bn:s00046030n , bn:s00051488n , bn:s00086098v , bn:s00063208n , bn:s00036288n , bn:s00088683v , bn:s00082634v , bn:s00087118v , bn:s00088030v , bn:s00084236v , bn:s00102827a , bn:s00082833v , bn:s00087920v , bn:s00044445n , bn:s00006461n , bn:s00006417n , bn:s00115341r , bn:s00071207n , bn:s00004337n , bn:s00030362n , bn:s00061032n , bn:s00014221n , bn:s00084318v , bn:s00033773n , bn:s00090529v , bn:s00031962n , bn:s00044565n , bn:s00034007n , bn:s00083355v , bn:s00037735n , bn:s00032435n , bn:s00090098v , bn:s00082831v , bn:s00082840v , bn:s00087394v , bn:s00049103n , bn:s00053844n , bn:s00006465n .
 
-frame:Activity_stop  skos:closeMatch  bn:s00082787v , bn:s00082119v , bn:s00087608v , bn:s00084710v .
+frame:Activity_stop  skos:closeMatch  bn:s00082787v , bn:s00082119v , bn:s00087608v .
 
 frame:Submitting_documents
         skos:closeMatch  bn:s00031063n , bn:s00094523v , bn:s00086532v , bn:s00088164v .
 
-frame:Reveal_secret  skos:closeMatch  bn:s00083912v , bn:s00090255v , bn:s00085511v , bn:s00027944n , bn:s00021733n , bn:s00027489n , bn:s00085362v , bn:s00085577v , bn:s00082267v , bn:s00088132v .
+frame:Reveal_secret  skos:closeMatch  bn:s00027489n , bn:s00088132v , bn:s00027944n , bn:s00090255v , bn:s00085362v , bn:s00085577v , bn:s00083912v , bn:s00021733n .
 
 frame:Custom  skos:closeMatch  bn:s00063991n , bn:s00024592n , bn:s00117332r , bn:s00022334n , bn:s00067937n , bn:s00112043a , bn:s00024591n , bn:s00109893a , bn:s00042403n .
 
-frame:Reading  skos:closeMatch  bn:s00066367n , bn:s00092424v , bn:s00091568v , bn:s00088871v .
+frame:Reading  skos:closeMatch  bn:s00066367n , bn:s00092424v .
 
 frame:Frugality  skos:closeMatch  bn:s00083657v , bn:s00093386v , bn:s00060754n , bn:s00085645v , bn:s00029684n , bn:s00006263n , bn:s00069538n , bn:s00032484n , bn:s00113719a , bn:s00036685n , bn:s00111890a .
 
@@ -1584,11 +1572,11 @@ frame:Membership  skos:closeMatch  bn:s00034004n , bn:s00054281n , bn:s00021395n
 frame:Cause_to_be_included
         skos:closeMatch  bn:s00082317v , bn:s00089660v .
 
-frame:Inspecting  skos:closeMatch  bn:s00089776v , bn:s00046920n , bn:s00087175v , bn:s00088585v , bn:s00032093n , bn:s00092527v , bn:s00082596v , bn:s00084848v .
+frame:Inspecting  skos:closeMatch  bn:s00089776v , bn:s00046920n .
 
 frame:Remainder  skos:closeMatch  bn:s00067065n , bn:s00050539n .
 
-frame:Military  skos:closeMatch  bn:s00057052n , bn:s00035770n , bn:s00106725a , bn:s00005803n , bn:s00107165a , bn:s00002224n , bn:s00005732n .
+frame:Military  skos:closeMatch  bn:s00057052n , bn:s00035770n , bn:s00106725a , bn:s00107165a , bn:s00002224n , bn:s00005732n .
 
 frame:Manipulation  skos:closeMatch  bn:s00085055v , bn:s00091492v , bn:s00086782v , bn:s00089958v , bn:s00091101v , bn:s00085050v , bn:s00089053v , bn:s00084509v , bn:s00065158n , bn:s00084312v , bn:s00089172v , bn:s00090121v , bn:s00084536v , bn:s00093144v , bn:s00089385v , bn:s00095214v , bn:s00095040v , bn:s00016035n , bn:s00089017v , bn:s00074725n , bn:s00090187v , bn:s00088216v , bn:s00085207v , bn:s00091064v , bn:s00088622v , bn:s00089064v , bn:s00084654v , bn:s00094952v , bn:s00088456v , bn:s00087234v , bn:s00094484v , bn:s00095277v .
 
@@ -1603,7 +1591,7 @@ frame:Attributes  skos:closeMatch  bn:s00065538n , bn:s00064752n , bn:s00007068n
 
 frame:Exclude_member  skos:closeMatch  bn:s00017096n , bn:s00087814v , bn:s00087857v .
 
-frame:Trust  skos:closeMatch  bn:s00032769n , bn:s00083369v , bn:s00100631a , bn:s00026350n , bn:s00112161a , bn:s00101186a , bn:s00083451v , bn:s00083095v , bn:s00000648n .
+frame:Trust  skos:closeMatch  bn:s00032769n , bn:s00100631a , bn:s00026350n , bn:s00112161a , bn:s00101186a , bn:s00000648n .
 
 frame:Surviving  skos:closeMatch  bn:s00087617v , bn:s00030811n , bn:s00083889v .
 
@@ -1696,7 +1684,7 @@ frame:Rejuvenation  skos:closeMatch  bn:s00089887v , bn:s00089888v , bn:s0009266
 
 frame:Exercising  skos:closeMatch  bn:s00032203n , bn:s00087830v , bn:s00087831v .
 
-frame:Manufacturing  skos:closeMatch  bn:s00053285n , bn:s00032594n , bn:s00052910n , bn:s00090556v , bn:s00085678v , bn:s00064590n , bn:s00086013v , bn:s00104995a , bn:s00084198v .
+frame:Manufacturing  skos:closeMatch  bn:s00053285n , bn:s00032594n , bn:s00052910n , bn:s00090556v , bn:s00085678v , bn:s00064590n , bn:s00104995a , bn:s00084198v .
 
 frame:Operate_vehicle
         skos:closeMatch  bn:s00092309v , bn:s00093798v , bn:s00084351v , bn:s00084470v , bn:s00083057v , bn:s00090515v , bn:s00083714v , bn:s00086103v , bn:s00092178v , bn:s00087328v , bn:s00082957v , bn:s00093856v , bn:s00083471v , bn:s00094721v , bn:s00087327v , bn:s00093014v , bn:s00093231v , bn:s00084970v , bn:s00093143v , bn:s00084515v , bn:s00091382v .
@@ -1708,7 +1696,7 @@ frame:Importance  skos:closeMatch  bn:s00100677a , bn:s00100716a , bn:s00100315a
 frame:Contrition  skos:closeMatch  bn:s00108405a , bn:s00007070n , bn:s00061330n , bn:s00042129n , bn:s00021461n , bn:s00097970a , bn:s00092683v .
 
 frame:Communication_response
-        skos:closeMatch  bn:s00020897n , bn:s00085869v , bn:s00085351v , bn:s00082646v , bn:s00067180n , bn:s00004451n , bn:s00066344n .
+        skos:closeMatch  bn:s00020897n , bn:s00085869v , bn:s00085351v , bn:s00082646v , bn:s00067180n , bn:s00004451n .
 
 frame:Getting_vehicle_underway
         skos:closeMatch  bn:s00084631v , bn:s00095702v .
@@ -1787,7 +1775,7 @@ frame:Carry_goods  skos:closeMatch  bn:s00084554v .
 
 frame:Repayment  skos:closeMatch  bn:s00066859n , bn:s00092811v , bn:s00091499v .
 
-frame:Choosing  skos:closeMatch  bn:s00018660n , bn:s00091590v , bn:s00084931v , bn:s00082645v , bn:s00018661n , bn:s00086370v , bn:s00084932v , bn:s00087517v .
+frame:Choosing  skos:closeMatch  bn:s00018660n , bn:s00091590v , bn:s00084931v , bn:s00082645v , bn:s00018661n , bn:s00084932v , bn:s00087517v .
 
 frame:Degree_of_processing
         skos:closeMatch  bn:s00113082a , bn:s00109051a .
@@ -1812,7 +1800,7 @@ frame:Request  skos:closeMatch  bn:s00059311n , bn:s00006362n , bn:s00087644v , 
 frame:Cause_to_make_noise
         skos:closeMatch  bn:s00091713v , bn:s00009757n , bn:s00084878v , bn:s00090125v , bn:s00083318v , bn:s00083557v , bn:s00084898v , bn:s00085998v , bn:s00085028v .
 
-frame:Vocalizations  skos:closeMatch  bn:s00010608n , bn:s00014793n , bn:s00073745n , bn:s00045075n .
+frame:Vocalizations  skos:closeMatch  bn:s00014793n , bn:s00045075n .
 
 frame:Render_nonfunctional
         skos:closeMatch  bn:s00089482v , bn:s00086871v , bn:s00090135v .
@@ -1879,10 +1867,10 @@ frame:Want_suspect  skos:closeMatch  bn:s00113696a .
 
 frame:Being_awake  skos:closeMatch  bn:s00097875a , bn:s00100302a , bn:s00095665v .
 
+frame:Encounter  skos:closeMatch  bn:s00089350v , bn:s00085339v .
+
 frame:Corroding_caused
         skos:closeMatch  bn:s00086463v , bn:s00091364v , bn:s00085841v .
-
-frame:Encounter  skos:closeMatch  bn:s00089350v , bn:s00085339v , bn:s00088791v .
 
 frame:Sequence  skos:closeMatch  bn:s00070575n , bn:s00070609n , bn:s00059313n , bn:s00070574n .
 
@@ -1977,7 +1965,7 @@ frame:Instance  skos:closeMatch  bn:s00032099n , bn:s00073222n .
 frame:Being_wet  skos:closeMatch  bn:s00113818a .
 
 frame:Activity_ongoing
-        skos:closeMatch  bn:s00083242v , bn:s00092928v , bn:s00085716v , bn:s00052867n , bn:s00090070v , bn:s00085714v , bn:s00084594v , bn:s00089384v .
+        skos:closeMatch  bn:s00083242v , bn:s00092928v , bn:s00085716v , bn:s00052867n , bn:s00090070v , bn:s00084594v , bn:s00089384v .
 
 frame:Containers  skos:closeMatch  bn:s00056230n , bn:s00035077n , bn:s00003672n , bn:s00027656n , bn:s00076327n , bn:s00069314n , bn:s00012339n , bn:s00031756n , bn:s00017091n , bn:s00030637n , bn:s00013104n , bn:s00022433n , bn:s00024576n , bn:s00008692n , bn:s00069073n , bn:s00028756n , bn:s00007927n , bn:s00041277n , bn:s00016494n , bn:s00010429n , bn:s00007922n , bn:s00023889n , bn:s00009055n , bn:s00079345n , bn:s00079628n , bn:s00009311n , bn:s00048516n , bn:s00031067n , bn:s00017545n , bn:s00015275n , bn:s00067439n , bn:s00014699n , bn:s00052832n , bn:s00042748n , bn:s00048209n , bn:s00049663n , bn:s00015103n , bn:s00016327n , bn:s00078629n , bn:s00020438n , bn:s00062827n , bn:s00016282n , bn:s00048889n , bn:s00076884n , bn:s00007752n , bn:s00073547n , bn:s00015344n , bn:s00013590n , bn:s00009598n , bn:s00023781n , bn:s00077330n , bn:s00003657n , bn:s00069270n , bn:s00024410n , bn:s00029062n , bn:s00052769n , bn:s00015815n , bn:s00016292n , bn:s00065214n , bn:s00028355n , bn:s00016334n , bn:s00012133n , bn:s00018208n , bn:s00063820n , bn:s00008864n , bn:s00012771n , bn:s00016261n , bn:s00016478n , bn:s00063904n , bn:s00024780n , bn:s00024099n , bn:s00008691n , bn:s00008872n , bn:s00048023n , bn:s00016405n , bn:s00014447n , bn:s00007925n , bn:s00074452n , bn:s00078572n , bn:s00034988n , bn:s00023594n , bn:s00023638n , bn:s00010469n , bn:s00028636n , bn:s00060407n , bn:s00079499n , bn:s00068790n , bn:s00059895n , bn:s00067304n , bn:s00044751n , bn:s00015743n , bn:s00078583n , bn:s00062588n , bn:s00012524n , bn:s00027573n , bn:s00012499n , bn:s00022129n , bn:s00069037n , bn:s00080160n , bn:s00078515n , bn:s00066106n .
 
@@ -2026,7 +2014,7 @@ frame:Losing  skos:closeMatch  bn:s00090488v , bn:s00090485v .
 frame:Participation  skos:closeMatch  bn:s00091708v , bn:s00060799n , bn:s00091451v , bn:s00087677v , bn:s00030844n , bn:s00060798n , bn:s00060837n , bn:s00105394a .
 
 frame:Proliferating_in_number
-        skos:closeMatch  bn:s00090631v , bn:s00057899n , bn:s00092062v , bn:s00087445v , bn:s00064685n .
+        skos:closeMatch  bn:s00090631v , bn:s00057899n , bn:s00092062v , bn:s00064685n .
 
 frame:Transfer  skos:closeMatch  bn:s00095085v , bn:s00022381n .
 
